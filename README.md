@@ -1,2 +1,2 @@
 # URNMe-Datasets
-4 datasets for input shaping vibraiton control
+We provid 4 datasets for vibration control of the URNMe input shaper. Each dataset includes 420 sampling points, collected from two platforms, i.e.,  vertical flexible beam: VFB-1 and VFB-2, and a 2-DOF laboratory overhead crane: LOC-1 and LOC-2. In these datasets, "freq" and "zeta" are system parameters representing undamped natural frequency and damping ratio, respectively, and "displacement" is the absolute value of the maximum displacement at the end of the flexible beam.
